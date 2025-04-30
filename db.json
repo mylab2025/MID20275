@@ -7,12 +7,18 @@
         "MF": "VISHAY"
       },
       "MID": "MID20275",
-      "MD": "SWITCHING DIODE 3A & 40V rated || High Performance Schottky Rectifier || Design Ref: D145, D147 || Required MIDs: MID20271, MID20272.",
-      "MT": "Electronic Comp.",
+      "MD": "SWITCHING DIODE 3A \u0026 40V rated || High Performance Schottky Rectifier || Design Ref: D145, D147 || Required MIDs: MID20271, MID20272.",
+      "MT": "Electronic Material",
       "MQNT": 8,
-      "MQATG": "#CLASS1",
+      "MQATG": "#CLASS_1",
       "ML": "102",
+      "MCost": 0,
       "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20275%2Fmain%2FEC052320_en_-_Vishay_vs-mbrs340m3.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
       "MR": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20275%2Fmain%2F773391_en_K.1_773391_schematic%201%20%281%29.pdf",
       "MaterialImages": [
         "https://raw.githubusercontent.com/mylab2025/MID20275/main/WhatsApp Image 2025-04-11 at 12.27.06 PM.jpeg"
